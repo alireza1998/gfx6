@@ -240,11 +240,11 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {159887854,153696038},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[GFX 2.3
     
 Admins👤
 
